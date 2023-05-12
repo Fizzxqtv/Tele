@@ -128,7 +128,7 @@ module.exports = alpha = async (alpha, bot) => {
             break
             case "privacy":
             case "snk": {
-                reply(lang.snk)
+                reply("1.don't spam chats" "2.don't lust for nsfw")
             }
             break
             case 'menu':
